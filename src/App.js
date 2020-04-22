@@ -9,6 +9,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
         This is New React. Welcome Back. Its Changed!
+        Now it is on AWS. New one.Feature
         </p>
         <a
           className="App-link"
